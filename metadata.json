@@ -1,0 +1,5 @@
+{
+  "name": "React Real-Time Chat UI",
+  "description": "A modern, responsive chat application user interface built with React and Tailwind CSS. It features a clean design, simulated real-time messaging, user lists with online status, and a dedicated chat window for conversations.",
+  "requestFramePermissions": []
+}
